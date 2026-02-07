@@ -1,58 +1,17 @@
 # Publications
 Selected publications highlighting research study in the domain of water, environmental and health  
 
-### Tools & Technologies
-- `Python` - Data analysis and visualization
-- `ArcGIS` - Spatial mapping
-- `Excel/R` - Statistical analysis
-- `Spectrophotometry` - Metal concentration analysis
+Applied research at the intersection of energy transition, decarbonization, water systems, and sustainable infrastructure. My work combines quantitative modeling, spatial analysis, and policy-informed research to support data-driven sustainability and climate mitigation strategies.
 
----
+🔎 Research Highlights
+🌍 1. Renewable Energy Transition Strategy (Nigeria Case Study)
 
-## 📈 Key Findings
+Analyzed the technical potential and policy barriers of solar, wind, hydro, biomass, and hydrogen energy systems, evaluating pathways for large-scale renewable integration and national decarbonization.
 
-### 1. Water Quality Classification (WQI)
-```
-Excellent: ████████████████ 16%
-Good:      ████████████████████████████████████████████████████████████████████████████████ 82%
-Moderate:  ██ 2%
-```
+📉 2. Climate Mitigation & Emissions Reduction Framework
 
-### 2. Irrigation Suitability Indices
+Examined the environmental and economic impacts of fossil fuel dependence, linking renewable energy adoption to greenhouse gas reduction, climate resilience, and sustainable development objectives.
 
-#### Sodium Ratio Distribution
-- ✅ **Good**: 76.7%
-- ⚠️ **Permissible**: 20%
-- ❌ **Poor**: 3.3%
+🏗 3. Infrastructure & Policy Implementation Gaps
 
-#### Kelly's Ratio Analysis
-- ✅ **Suitable**: 96.7%
-- ❌ **Not Suitable**: 3.3%
-
-#### Magnesium Hazard
-- ✅ **Safe (MH <50)**: 100%
-
-### 3. Compliance Summary
-| Parameter | WHO Limit | Status |
-|-----------|-----------|--------|
-| TDS | 500 mg/L | ✅ Within Limit |
-| EC | 1000 μS/cm | ✅ Within Limit |
-| Chloride | 250 mg/L | ✅ Within Limit |
-| Alkalinity | 200 mg/L | ✅ Within Limit |
-| pH | 6.5-8.5 | ⚠️ Slightly Acidic |
-
----
-
-## 💡 Impact & Recommendations
-
-### Positive Outcomes
-- **96.7%** of groundwater sources validated as safe for domestic use
-- Majority of samples suitable for agricultural irrigation
-- Identified specific locations requiring pH adjustment
-
-### Action Items
-1. Monitor pH levels in identified acidic sources
-2. Implement treatment for 3.3% non-compliant sources
-3. Establish regular water quality monitoring program
-
----
+Assessed the Renewable Energy Master Plan (REMP) and identified regulatory, financial, and institutional barriers limiting deployment — generating insights to support scalable and practical energy transition strategies.
